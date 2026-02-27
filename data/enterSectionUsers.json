@@ -1,0 +1,47 @@
+[
+  {
+    "username": "majid",
+    "password": "$2b$10$KPKbdWBTFzZhqnrnOmokHewvFspnCwB.p73Zhz1ZRYhwgxygurj4e",
+    "role": "user"
+  },
+  {
+    "username": "admin",
+    "password": "$2b$10$BIzhHmv4FutChNnx8idJz.ZVIGgN2kGc1JJqoPSnBBfxAbR9EUCAW",
+    "role": "admin"
+  },
+  {
+    "username": "user",
+    "password": "$2b$10$lB0TGVg1FzA4E5jP8Z01aO5sBqEGPNAIIKZpzDquS.EBO/1YjhBMS",
+    "role": "user"
+  },
+  {
+    "username": "elahe",
+    "password": "$2b$10$twmD1hAEHiN2x7ZXNWD2SuHVEYTVDz9FHXJrAjmeQrnOlOc/2UAsm",
+    "role": "user"
+  },
+  {
+    "username": "علی",
+    "password": "$2b$10$duRZQ6xrV80Y2oA2B1Ymt.5YMA/H0CZt51qX5pO2C7JYSzMBNTc9C",
+    "role": "user"
+  },
+  {
+    "username": "میثم",
+    "password": "$2b$10$YhZ1qck02Hl0I7odPtlu1.JSe2WBxm/3/5HkP6eNinyiAJkqZXzE2",
+    "role": "user"
+  },
+  {
+    "username": "1753767407",
+    "password": "$2b$10$5gjEdGX1.4C9sManfOi26Ozr7pxgAK9MjUk4iq33G/ByWEtLPGoQ.",
+    "role": "user"
+  },
+  {
+    "username": "aaaa",
+    "password": "$2b$10$4vuKwBP7iaPX95h6AvTzHuDVBPuOmIcexQPMB86frHYOConihxiY6",
+    "role": "user"
+  },
+  {
+    "username": "ssss",
+    "password": "$2b$10$/tol2OyiC1c5rP6qH/8yO.Y1tv/qm558BrClt/W0gOT.FDjJovBKi",
+    "role": "user"
+  }
+]

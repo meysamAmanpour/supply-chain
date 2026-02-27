@@ -1,0 +1,20 @@
+[
+  {
+    "materialName": "کوبیده",
+    "quantity": "20",
+    "unit": "سیخ",
+    "receiver": "admin",
+    "logDate": "۱۴۰۴/۱۲/۰۴",
+    "date": "۱۴۰۴/۱۲/۰۱",
+    "id": 1771866008842
+  },
+  {
+    "materialName": "جوجه",
+    "quantity": "30",
+    "unit": "سیخ",
+    "receiver": "میثم",
+    "logDate": "۱۴۰۴/۱۲/۰۴",
+    "date": "۱۴۰۴/۱۲/۰۳",
+    "id": 1771866165323
+  }
+]

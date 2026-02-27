@@ -9,9 +9,25 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dayjs": "^1.11.19",
+    "file-saver": "^2.0.5",
+    "file-server": "^2.2.1",
+    "get-stream": "^9.0.1",
+    "jalaliday": "^3.1.1",
+    "jsonwebtoken": "^9.0.3",
+    "jspdf": "^4.2.0",
+    "jspdf-autotable": "^5.0.7",
     "next": "16.1.6",
+    "next-pwa": "^5.6.0",
+    "pdfkit": "^0.17.2",
+    "plugins": "^0.4.2",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-hot-toast": "^2.6.0",
+    "react-multi-date-picker": "^4.5.2",
+    "recharts": "^3.7.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

@@ -1,0 +1,44 @@
+[
+  {
+    "materialName": "بناب",
+    "quantity": "100",
+    "unit": "سیخ",
+    "supplier": "میثم",
+    "date": "۱۴۰۴/۱۱/۳۰",
+    "id": 1771591441626
+  },
+  {
+    "materialName": "برنج",
+    "quantity": "140",
+    "unit": "کیلو",
+    "supplier": "admin",
+    "date": "۱۴۰۴/۱۲/۰۱",
+    "id": 1771593533171
+  },
+  {
+    "materialName": "کباب بناب",
+    "quantity": "90",
+    "unit": "سیخ",
+    "supplier": "میثم",
+    "date": "۱۴۰۴/۱۱/۲۹",
+    "id": 1771593622480
+  },
+  {
+    "materialName": "ماهی کبابی",
+    "quantity": "100",
+    "unit": "کیلو",
+    "supplier": "میثم",
+    "date": "۱۴۰۴/۱۱/۲۷",
+    "id": 1771670669390
+  },
+  {
+    "materialName": "کوبیده",
+    "quantity": "20",
+    "unit": "سیخ",
+    "supplier": "admin",
+    "logDate": "۱۴۰۴/۱۲/۰۳",
+    "date": "۱۴۰۴/۱۲/۰۱",
+    "receiver": "admin",
+    "id": 1771798607138
+  }
+]
